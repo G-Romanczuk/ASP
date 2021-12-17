@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 
-using EPaczucha.Models;
-using sStudent = EPaczucha.Models.Student;
+using ASP.Models;
+using sStudent = ASP.Models.Student;
 
 using Microsoft.AspNetCore.Mvc;
 
 
-namespace EPaczucha.Controllers
+namespace ASP.Controllers
 {
     public class StudentController : Controller
     {

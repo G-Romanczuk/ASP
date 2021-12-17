@@ -4,12 +4,12 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-using EPaczucha.Models;
+using ASP.Models;
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace EPaczucha.Controllers
+namespace ASP.Controllers
 {
     public class HomeController : Controller
     {

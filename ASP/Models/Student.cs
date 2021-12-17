@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 using Microsoft.AspNetCore.Mvc;
 
-namespace EPaczucha.Models
+namespace ASP.Models
 {
     public class Student
     {

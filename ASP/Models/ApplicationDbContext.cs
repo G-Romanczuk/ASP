@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace EPaczucha.Models
+namespace ASP.Models
 {
     public class ApplicationDbContext : DbContext
     {

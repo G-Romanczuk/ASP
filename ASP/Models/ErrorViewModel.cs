@@ -1,6 +1,6 @@
 using System;
 
-namespace EPaczucha.Models
+namespace ASP.Models
 {
     public class ErrorViewModel
     {

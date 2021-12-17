@@ -1,8 +1,8 @@
 ﻿using System.Linq;
 
-using EPaczucha.Models;
+using ASP.Models;
 
-namespace EPaczucha.Models
+namespace ASP.Models
 {
     public interface IStudentRepository
     {
